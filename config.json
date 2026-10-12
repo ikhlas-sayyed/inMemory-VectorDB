@@ -1,0 +1,9 @@
+{
+  "bind_address": "127.0.0.1:7000",
+  "data_dir": "data",
+  "m": 16,
+  "m_max0": 32,
+  "ef_construction": 200,
+  "ef_search": 100,
+  "seed": 42
+}

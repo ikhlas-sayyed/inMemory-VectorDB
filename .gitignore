@@ -1,0 +1,5 @@
+/target
+/client-lib/rust/target
+/data
+/client-lib/typescript/node_modules
+/client-lib/typescript/dist
